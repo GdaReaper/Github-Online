@@ -1,0 +1,5 @@
+C:\Users\46725\Desktop\GitHub\NoteTaking App\NoteTaking App.exe
+C:\Users\46725\Desktop\GitHub\NoteTaking App\NoteTaking App.dll
+C:\Users\46725\Desktop\GitHub\NoteTaking App\NoteTaking App.deps.json
+C:\Users\46725\Desktop\GitHub\NoteTaking App\NoteTaking App.runtimeconfig.json
+C:\Users\46725\Desktop\GitHub\NoteTaking App\NoteTaking App.pdb
